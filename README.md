@@ -3,7 +3,7 @@
 
 This script performs a Monte Carlo simulation to analyze the profit and loss outcomes of a trading "Crash" strategy based on provided data sets and exit levels. It provides insights into the potential profitability and risk associated with different exit strategies.
 
-Just add a Historical Crash dadtset of your choosing and timeframe and adjust the number of simulations to run. Default is set to 1000. Input your starting capitol parameter to produce PNL outcomes. Target levels and max results can also be adjusted.
+Just add a Historical Crash dadtset of your choosing and timeframe and adjust the number of simulations to run. Default is set to 1000000. Input your starting capitol parameter to produce PNL outcomes. Target levels and max results can also be adjusted.
 
 
 Function Definitions:
